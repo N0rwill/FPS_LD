@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/will/Documents/Unreal Projects/FPS_LD/FPS_LD/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/will/Documents/Unreal Projects/FPS_LD/FPS_LD/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/will/Documents/Unreal Projects/FPS_LD/FPS_LD/Content/Maps/MainLevel.umap",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/will/Documents/Unreal Projects/FPS_LD/FPS_LD/Content/StarterContent/Materials/red.uasset"
 			]
 		}
 	]
